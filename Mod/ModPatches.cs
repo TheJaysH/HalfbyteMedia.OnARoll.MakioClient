@@ -80,7 +80,7 @@ namespace HalfbyteMedia.OnARoll.MakioClient.Mod
                 startMenuController = __instance;
             }
         }
-onon
+
         [HarmonyPatch(typeof(General), MethodType.Constructor)]
         public class Patch_General_Constructor
         {
