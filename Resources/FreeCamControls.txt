@@ -1,0 +1,7 @@
+Controls:
+- WASD / Arrows: Movement
+- Space / PgUp: Move up
+- LeftCtrl / PgDown: Move down
+- Right Mouse Button: Free look
+- Scroll Wheel: Field of View (Zoom)
+- Shift: Super speed
